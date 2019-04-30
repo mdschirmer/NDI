@@ -1,0 +1,171 @@
+OrigLabel,Name,Abbr,x,y,z,category
+2,Right Planum Polare,RPP,45.045872,0.825688,-7.412844,cortical
+3,Left Temporal Pole,LTP,-46.607595,2.202532,-38.379747,cortical
+4,Right Frontal Pole,RFP,45.020408,39.55102,-11.265306,cortical
+5,Right Temporal Fusiform anterior,RTFCad,29.526882,-2.860215,-40.516129,cortical
+6,Left Frontal Pole,LFP,-31.128205,42.444444,30.358974,cortical
+7,Left Precuneous,LPC,-8.778626,-67.801527,24.70229,cortical
+8,Right Juxtapositional Lobule,RJLC(SMC,0.323529,-1.676471,56.411765,cortical
+9,Right Supramarginal posterior,RSGpd,57.370787,-44.202247,37.348315,cortical
+10,Left Middle Temporal posterior,LMTGpd,-60.285714,-18,-11.346939,cortical
+11,Left Temporal Fusiform anterior,LTFCad,-29.454545,-5.181818,-39.227273,cortical
+12,Left Planum Temporale,LPT,-42.626506,-30.626506,15.951807,cortical
+13,Right Caudate,RC,13.37931,10.896552,12.206897,subcortical
+15,Left Supramarginal anterior,LSGad,-55.530435,-29.547826,43.408696,cortical
+16,Right Occipital Pole,ROP,16.438095,-97.542857,8.228571,cortical
+17,Left Paracingulate,LPG,-0.272,42.128,-5.792,cortical
+18,Right Inferior Temporal posterior,RITGpd,59.274725,-31.714286,-20.087912,cortical
+19,Left Caudate,LC,-12.933333,7.4,13.2,subcortical
+20,Left Thalamus,LT,-12.485437,-26.15534,5.592233,subcortical
+21,Right Middle Frontal,RMFG,29.76699,11.087379,56.660194,cortical
+23,Left Postcentral,LPG,-24.021053,-31.305263,65.642105,cortical
+24,Left Lateral Occipital superior,LLOCsd,-29.932773,-78.436975,33.579832,cortical
+25,Right Precuneous,RPC,8.92437,-39.344538,46.487395,cortical
+26,Right Frontal Pole,RFP,31.59292,57.292035,-7.433628,cortical
+27,Right Insular,RIC,35.61039,5.376623,7.584416,cortical
+28,Left Insular,LIC,-35.935484,11.16129,5.333333,cortical
+29,Left Insular,LIC,-41.486239,-12.972477,9.944954,cortical
+30,Right Middle Frontal,RMFG,29.926606,29.009174,44.697248,cortical
+31,Left Middle Temporal posterior,LMTGpd,-60.836364,-35.2,-3.418182,cortical
+32,Right Lateral Occipital superior,RLOCsd,36.363636,-73.848485,33.484848,cortical
+33,Right Thalamus,RT,14.242424,-26.444444,5.818182,subcortical
+34,Right Putamen,RP,16.8,12.088889,-4.222222,subcortical
+36,Left Paracingulate,LPG,-6.571429,49.714286,10.619048,cortical
+37,Right Precuneous,RPC,13.02439,-62.813008,23.154472,cortical
+38,Right Middle Temporal anterior,RMTGad,55.608247,2.701031,-21.360825,cortical
+39,Left Temporal Pole,LTP,-44.627451,14.784314,-22.392157,cortical
+41,Left Angular,LAG,-50.172414,-59.931034,23.689655,cortical
+42,Right Middle Frontal,RMFG,46,28.846154,29.076923,cortical
+43,Right Postcentral,RPG,48.167939,-10.793893,44.549618,cortical
+44,Left Occipital Pole,LOP,-18,-97.155556,-9.288889,cortical
+45,Right Insular,RIC,37.340659,21.78022,-1.714286,cortical
+46,Left Pallidum,LP,-25.412844,-7.06422,0.880734,subcortical
+47,Left Middle Frontal,LMFG,-41.968254,9.333333,47.555556,cortical
+48,Right Lateral Occipital superior,RLOCsd,46.701754,-58.736842,44.140351,cortical
+50,Right Cingulate posterior,RCGpd,1.050847,-14.169492,43.254237,cortical
+51,Right Inferior Temporal temporooccipital,RITGtp,56.831858,-50.389381,-13.380531,cortical
+52,Left Superior Parietal Lobule,LSPL,-37.206897,-43.655172,47.896552,cortical
+53,Left Middle Frontal,LMFG,-44.42623,24.393443,29.540984,cortical
+54,Right Parietal Operculum,RPOC,43.888889,-27,17.555556,cortical
+55,Left Occipital Fusiform,LOFG,-19.761194,-76.925373,-14.537313,cortical
+56,Left Frontal Pole,LFP,-30.912281,58.105263,-5.684211,cortical
+57,Left Inferior Temporal posterior,LITGpd,-55.375,-16.1875,-30.875,cortical
+58,Right Inferior Temporal posterior,RITGpd,55.226667,-14.853333,-31.68,cortical
+59,Right Frontal Pole,RFP,13.683168,60.336634,24.514851,cortical
+61,Right Postcentral,RPG,11.781513,-41.596639,69.210084,cortical
+62,Right Superior Temporal posterior,RSTGpd,52.628571,-29.257143,-1.6,cortical
+63,Left Frontal Pole,LFP,-10,58.170213,-17.021277,cortical
+64,Left Hippocampus,LH,-22.466667,-6.966667,-21.7,subcortical
+65,Left Middle Frontal,LMFG,-29.865546,-1.596639,57.445378,cortical
+67,Right Intracalcarine,RIC,9.833333,-73.266667,6.666667,cortical
+68,Right Lateral Occipital superior,RLOCsd,13.645161,-64.225806,59.516129,cortical
+69,Right Temporal Fusiform posterior,RTFCpd,36.571429,-20.734694,-26.612245,cortical
+70,Right Precentral,RPG,19.639344,-23.803279,69.409836,cortical
+72,Right Paracingulate,RPG,7.557895,47.852632,9.894737,cortical
+73,Left Frontal Medial,LFMC,-0.628571,39.638095,-22.4,cortical
+74,Left Lateral Occipital inferior,LLOCid,-36.784314,-87.921569,-4.039216,cortical
+75,Right Central Opercular,RCOC,57.568627,2.980392,6.392157,cortical
+76,Left Putamen,LP,-16.967742,11.333333,-3.354839,subcortical
+77,Left Cingulate posterior,LCGpd,-0.871795,-48.632479,25.641026,cortical
+78,Right Lateral Occipital inferior,RLOCid,47.906542,-68.35514,-8.411215,cortical
+79,Right Hippocampus,RH,22.375,-6.09375,-21.59375,subcortical
+80,Left Lateral Occipital superior,LLOCsd,-27.830508,-66.576271,48.677966,cortical
+81,Left Frontal Pole,LFP,-11.979381,60.061856,24.618557,cortical
+82,Right Thalamus,RT,10.378947,-9.747368,9.852632,subcortical
+83,Right Superior Parietal Lobule,RSPL,30.136752,-47.025641,63.282051,cortical
+84,Left Middle Temporal temporooccipital,LMTGtp,-57.315315,-52.306306,7.603604,cortical
+85,Left Temporal Occipital Fusiform,LTOFC,-24.032787,-56.098361,-12.262295,cortical
+86,Right Frontal Pole,RFP,43.457627,44.677966,9.355932,cortical
+87,Right Temporal Pole,RTP,46.697674,4.744186,-38.790698,cortical
+88,Right Lateral Occipital inferior,RLOCid,37.783784,-86.36036,-3.207207,cortical
+89,Left Insular,LIC,-43.614679,-1.266055,-8,cortical
+90,Right Precentral,RPG,50.867925,9.622642,26.45283,cortical
+91,Right Cingulate anterior,RCGad,0.482759,22.655172,35.103448,cortical
+92,Left Frontal Pole,LFP,-26.55,39.7,-15.65,cortical
+93,Right Lingual,RLG,14.307692,-52.265734,-0.223776,cortical
+94,Left Temporal Fusiform posterior,LTFCpd,-36.042553,-22.297872,-25.617021,cortical
+95,Right Occipital Pole,ROP,5.660377,-87.622642,22.754717,cortical
+96,Right Middle Temporal posterior,RMTGpd,61.009901,-14.514851,-11.524752,cortical
+97,Left Superior Frontal,LSFG,-4.336634,26.158416,54.217822,cortical
+98,Left Precentral,LPG,-45.515152,-14.515152,44.606061,cortical
+99,Right Frontal Pole,RFP,31.344538,45.159664,28.336134,cortical
+100,Left Lateral Occipital superior,LLOCsd,-10.972973,-61.459459,60.612613,cortical
+101,Left Subcallosal,LSC,-1.191489,20.212766,-13.574468,cortical
+103,Right Frontal Orbital,RFOC,16.065934,19.318681,-20.307692,cortical
+104,Left Postcentral,LPG,-40.137405,-24.351145,60.305344,cortical
+105,Right Postcentral,RPG,60.074074,-9.259259,28.148148,cortical
+106,Right Frontal Pole,RFP,15.377778,46,43.111111,cortical
+107,Left Lateral Occipital inferior,LLOCid,-48.070175,-70.982456,0.385965,cortical
+108,Left Superior Frontal,LSFG,-25.969231,24.369231,48.769231,cortical
+109,Left Lingual,LLG,-11.182609,-54.730435,2.713043,cortical
+110,Right Postcentral,RPG,38.617886,-26.552846,59.121951,cortical
+111,Left Parietal Operculum,LPOC,-59.74359,-37.760684,24.068376,cortical
+112,Right Frontal Pole,RFP,10.530612,59.306122,-17.346939,cortical
+113,Right Temporal Pole,RTP,39.666667,16.818182,-20.090909,cortical
+114,Left Occipital Pole,LOP,-10.654545,-98.836364,9.2,cortical
+115,Left Precentral,LPG,-49.674797,5.447154,29.560976,cortical
+116,Right Middle Temporal temporooccipital,RMTGtp,57.881481,-48.696296,8.059259,cortical
+117,Left Frontal Pole,LFP,-43.009009,42.504505,10.414414,cortical
+118,Right Cingulate anterior,RCGad,0.730159,6.920635,39.015873,cortical
+119,Right Occipital Fusiform,ROFG,22.556291,-71.298013,-11.92053,cortical
+120,Left Inferior Temporal temporooccipital,LITGtp,-55.407407,-55.037037,-12.481481,cortical
+121,Left Frontal Orbital,LFOC,-36.828283,23.333333,-8.888889,cortical
+123,Right Frontal Pole,RFP,28.730769,58.615385,11.538462,cortical
+124,Left Parahippocampal posterior,LPGpd,-23.787879,-34.212121,-12.727273,cortical
+125,Right Parahippocampal posterior,RPGpd,26.92562,-31.752066,-12.396694,cortical
+126,Left Supramarginal posterior,LSGpd,-53.469388,-48.979592,42.938776,cortical
+127,Left Precuneous,LPC,-7.876106,-38.070796,46.867257,cortical
+128,Left Middle Temporal anterior,LMTGad,-56.305882,-0.352941,-19.576471,cortical
+129,Left Frontal Pole,LFP,-10.893204,66.621359,2.019417,cortical
+130,Right Superior Frontal,RSFG,15.305263,0.694737,68.042105,cortical
+131,Right Angular,RAG,51.793103,-56.862069,24.137931,cortical
+132,Left Superior Parietal Lobule,LSPL,-28.407407,-50.777778,62.666667,cortical
+133,Left Inferior Frontal pars triangularis,LIFGpt,-51.372549,22.431373,7.686275,cortical
+134,Left Central Opercular,LCOC,-55.669565,0.956522,7.478261,cortical
+135,Left Precentral,LPG,-0.327869,-22.754098,65.508197,cortical
+136,Right Supramarginal anterior,RSGad,55.538462,-27.692308,45.653846,cortical
+137,Right Lateral Occipital superior,RLOCsd,29.760684,-64.564103,49.57265,cortical
+138,Right Lingual,RLG,0.126984,-87.047619,-5.904762,cortical
+139,Right Superior Frontal,RSFG,12.714286,24.333333,59.095238,cortical
+140,Right Lateral Occipital inferior,RLOCid,46.928,-71.12,12.128,cortical
+141,Left Precentral,LPG,-19.708738,-15.203883,70.368932,cortical
+142,Left Frontal Orbital,LFOC,-19.89011,18.571429,-20.747253,cortical
+143,Left Inferior Temporal posterior,LITGpd,-56.561798,-35.617978,-21.977528,cortical
+144,Right Inferior Frontal pars triangularis,RIFGpt,52.285714,24.408163,6.897959,cortical
+147,Left Occipital Pole,LOP,-28.208333,-89.833333,17.166667,cortical
+148,Left Occipital Pole,LOP,-11.164557,-90.151899,29.316456,cortical
+149,Right Frontal Pole,RFP,25.698925,38.344086,-16.258065,cortical
+150,Right Parietal Operculum,RPOC,59.858586,-31.090909,25.131313,cortical
+152,Right Frontal Pole,RFP,11.242718,66.893204,1.980583,cortical
+153,Right Occipital Pole,ROP,19.826087,-93.956522,-9.304348,cortical
+154,Right Pallidum,RP,25.733333,-6.533333,0.228571,subcortical
+155,Left Postcentral,LPG,-59.20354,-12.477876,27.681416,cortical
+156,Right Middle Frontal,RMFG,44.336,11.024,43.52,cortical
+157,Left Occipital Fusiform,LOFG,-39.677419,-70.387097,-17.247312,cortical
+159,Right Paracingulate,RPG,0.444444,42.407407,33.444444,cortical
+160,Right Heschl's,RHG(HaH,43.185185,-12.62963,9.407407,cortical
+161,Left Lateral Occipital superior,LLOCsd,-43.892857,-66.714286,41.5,cortical
+162,Right Temporal Occipital Fusiform,RTOFC,35.503356,-51.530201,-18.201342,cortical
+163,Left Thalamus,LT,-6.84,-10.96,6.88,subcortical
+164,Right Superior Parietal Lobule,RSPL,38.350877,-40.947368,48.140351,cortical
+165,Left Frontal Pole,LFP,-14.494382,44.966292,42.696629,cortical
+166,Right Middle Temporal temporooccipital,RMTGtp,66.857143,-36.857143,-4.285714,cortical
+167,Right Lateral Occipital superior,RLOCsd,29.567568,-86,21.261261,cortical
+168,Right Temporal Fusiform posterior,RTFCpd,33.043478,-36.782609,-28.086957,cortical
+169,Left Superior Frontal,LSFG,-13.020408,7.102041,66.734694,cortical
+170,Left Frontal Pole,LFP,-44.606742,40.47191,-11.011236,cortical
+171,Left Cingulate anterior,LCGad,-0.326531,32.040816,19.673469,cortical
+172,Left Lingual,LLG,-8.991597,-73.630252,5.142857,cortical
+174,Left Temporal Pole,LTP,-31.142857,13.12381,-37.295238,cortical
+175,Left Postcentral,LPG,-10.495238,-41.809524,68.72381,cortical
+176,Right Lateral Occipital superior,RLOCsd,14.823529,-79.088235,40.176471,cortical
+178,Left Planum Temporale,LPT,-58.720721,-22.792793,8.828829,cortical
+179,Right Superior Temporal posterior,RSTGpd,63.298246,-21.929825,7.508772,cortical
+180,Right Precentral,RPG,33.927928,-8.774775,59.603604,cortical
+181,Left Lateral Occipital superior,LLOCsd,-43.514563,-76.524272,17.825243,cortical
+182,Right Cingulate posterior,RCGpd,0.555556,-29.166667,32.722222,cortical
+183,Left Temporal Occipital Fusiform,LTOFC,-38.896,-46.096,-23.584,cortical
+184,Right Precuneous,RPC,0.736842,-59.954887,42.015038,cortical
+185,Left Frontal Pole,LFP,-28.057143,55.371429,13.257143,cortical
+187,Right Temporal Pole,RTP,31.663366,15.584158,-37.346535,cortical
+188,Left Lateral Occipital superior,LLOCsd,-10.168067,-77.193277,45.411765,cortical
