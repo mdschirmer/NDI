@@ -1,5 +1,5 @@
 # NDI
-###Network Dependency Index for analysis of the connectomes:
+### Network Dependency Index for analysis of the connectomes:
 
 - get_NDI.m: function to extract nodal NDI 
 - get_NDI_labels.m: get labels based on midpoint between Gaussian centers and NDI scores (passed as argument)
